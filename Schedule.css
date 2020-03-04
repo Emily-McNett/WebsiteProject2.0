@@ -1,0 +1,28 @@
+body{
+       font-family: "Times New Roman", Times, serif;
+ 	 color: #000000;
+    }
+
+    h1  {
+ 	   font-size: 1.3em;
+ 	   text-align: center;
+    }
+
+   table {
+ 	   margin-left: auto;
+ 	   margin-right: auto;
+ 	   text-align: left;
+ 	   border-collapse: collapse;
+   }
+
+   tr   {
+	  border: 1px solid #41A3BE;
+	  text-align: center;
+	  background-color:#D4D1BF;
+  }
+
+  th   {
+	 text-align: center;
+	 color: #ffffff;
+	 background-color: #003366;
+  }
